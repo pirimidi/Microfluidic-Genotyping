@@ -1,0 +1,663 @@
+08-03 17:17:27.308 root         INFO     -	--> Serial connection established
+08-03 17:17:27.308 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:17:27.309 root         INFO     -	--> Temperature controller object constructed
+08-03 17:17:27.309 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:17:28.374 root         INFO     0	--> Set target temperature to 20.00 C
+08-03 17:17:28.374 root         INFO     -	--> Finished set_temperature method execution - duration: 0.02 minutes
+
+08-03 17:17:32.340 root         INFO     -	--> Serial connection established
+08-03 17:17:32.341 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:17:32.342 root         INFO     -	--> Temperature controller object constructed
+08-03 17:17:32.342 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-03 17:18:21.831 root         INFO     -	--> Serial connection established
+08-03 17:18:21.831 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:18:21.832 root         INFO     -	--> Temperature controller object constructed
+08-03 17:18:21.832 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:18:23.634 root         INFO     0	--> Set target temperature to 15.00 C
+08-03 17:18:23.634 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 17:18:27.867 root         INFO     -	--> Serial connection established
+08-03 17:18:27.867 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:18:27.868 root         INFO     -	--> Temperature controller object constructed
+08-03 17:18:27.868 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 17:19:29.979 root         INFO     -	--> Serial connection established
+08-03 17:19:29.979 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:19:29.980 root         INFO     -	--> Temperature controller object constructed
+08-03 17:19:29.980 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-03 17:19:29.980 root         INFO     0	--> Set temperature control OFF
+08-03 17:19:29.981 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-03 17:31:04.484 root         INFO     -	--> Serial connection established
+08-03 17:31:04.484 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:31:04.486 root         INFO     -	--> Temperature controller object constructed
+08-03 17:31:04.486 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:31:06.890 root         INFO     0	--> Set target temperature to 15.00 C
+08-03 17:31:06.890 root         INFO     -	--> Finished set_temperature method execution - duration: 0.04 minutes
+
+08-03 17:31:11.132 root         INFO     -	--> Serial connection established
+08-03 17:31:11.132 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:31:11.134 root         INFO     -	--> Temperature controller object constructed
+08-03 17:31:11.134 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-03 17:31:11.134 root         INFO     0	--> Set temperature control ON
+08-03 17:31:11.134 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-03 17:31:13.682 root         INFO     -	--> Serial connection established
+08-03 17:31:13.683 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:31:13.684 root         INFO     -	--> Temperature controller object constructed
+08-03 17:31:13.684 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 17:31:48.490 root         INFO     -	--> Serial connection established
+08-03 17:31:48.490 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:31:48.492 root         INFO     -	--> Temperature controller object constructed
+08-03 17:31:48.492 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:31:50.046 root         INFO     0	--> Set target temperature to 20.00 C
+08-03 17:31:50.046 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 17:31:52.382 root         INFO     -	--> Serial connection established
+08-03 17:31:52.383 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:31:52.384 root         INFO     -	--> Temperature controller object constructed
+08-03 17:31:52.384 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 17:32:41.527 root         INFO     -	--> Serial connection established
+08-03 17:32:41.527 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:32:41.528 root         INFO     -	--> Temperature controller object constructed
+08-03 17:32:41.528 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:32:43.121 root         INFO     0	--> Set target temperature to 10.00 C
+08-03 17:32:43.122 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 17:32:45.348 root         INFO     -	--> Serial connection established
+08-03 17:32:45.348 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:32:45.350 root         INFO     -	--> Temperature controller object constructed
+08-03 17:32:45.350 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 17:36:39.430 root         INFO     -	--> Serial connection established
+08-03 17:36:39.431 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:36:39.432 root         INFO     -	--> Temperature controller object constructed
+08-03 17:36:39.432 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-03 17:36:39.432 root         INFO     0	--> Set temperature control OFF
+08-03 17:36:39.432 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-03 17:51:32.212 root         INFO     -	--> Serial connection established
+08-03 17:51:32.212 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:51:32.213 root         INFO     -	--> Temperature controller object constructed
+08-03 17:51:32.213 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 17:51:33.114 root         INFO     0	--> Set target temperature to 10.00 C
+08-03 17:51:33.114 root         INFO     -	--> Finished set_temperature method execution - duration: 0.02 minutes
+
+08-03 17:51:38.014 root         INFO     -	--> Serial connection established
+08-03 17:51:38.014 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:51:38.016 root         INFO     -	--> Temperature controller object constructed
+08-03 17:51:38.016 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-03 17:51:38.016 root         INFO     0	--> Set temperature control ON
+08-03 17:51:38.016 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-03 17:51:43.380 root         INFO     -	--> Serial connection established
+08-03 17:51:43.380 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:51:43.382 root         INFO     -	--> Temperature controller object constructed
+08-03 17:51:43.382 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-03 17:51:43.382 root         INFO     0	--> Set temperature control ON
+08-03 17:51:43.382 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-03 17:51:47.070 root         INFO     -	--> Serial connection established
+08-03 17:51:47.070 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 17:51:47.072 root         INFO     -	--> Temperature controller object constructed
+08-03 17:51:47.072 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 18:10:41.350 root         INFO     -	--> Serial connection established
+08-03 18:10:41.350 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:10:41.352 root         INFO     -	--> Temperature controller object constructed
+08-03 18:10:41.352 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 18:10:44.994 root         INFO     0	--> Set target temperature to 4.00 C
+08-03 18:10:44.994 root         INFO     -	--> Finished set_temperature method execution - duration: 0.06 minutes
+
+08-03 18:10:46.654 root         INFO     -	--> Serial connection established
+08-03 18:10:46.654 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:10:46.656 root         INFO     -	--> Temperature controller object constructed
+08-03 18:10:46.656 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 18:11:24.826 root         INFO     -	--> Serial connection established
+08-03 18:11:24.826 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:11:24.828 root         INFO     -	--> Temperature controller object constructed
+08-03 18:11:24.828 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 18:11:26.769 root         INFO     0	--> Set target temperature to 20.00 C
+08-03 18:11:26.770 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 18:11:28.200 root         INFO     -	--> Serial connection established
+08-03 18:11:28.200 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:11:28.202 root         INFO     -	--> Temperature controller object constructed
+08-03 18:11:28.202 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 18:14:38.515 root         INFO     -	--> Serial connection established
+08-03 18:14:38.515 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:14:38.517 root         INFO     -	--> Temperature controller object constructed
+08-03 18:14:38.517 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 18:14:40.141 root         INFO     0	--> Set target temperature to 26.00 C
+08-03 18:14:40.142 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 18:14:41.352 root         INFO     -	--> Serial connection established
+08-03 18:14:41.352 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:14:41.354 root         INFO     -	--> Temperature controller object constructed
+08-03 18:14:41.354 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 18:15:37.498 root         INFO     -	--> Serial connection established
+08-03 18:15:37.498 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:15:37.500 root         INFO     -	--> Temperature controller object constructed
+08-03 18:15:37.500 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-03 18:15:39.158 root         INFO     0	--> Set target temperature to 90.00 C
+08-03 18:15:39.158 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-03 18:15:41.568 root         INFO     -	--> Serial connection established
+08-03 18:15:41.568 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:15:41.570 root         INFO     -	--> Temperature controller object constructed
+08-03 18:15:41.570 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-03 18:16:29.868 root         INFO     -	--> Serial connection established
+08-03 18:16:29.868 root         INFO     0	--> Retrieve configuration parameters from file
+08-03 18:16:29.870 root         INFO     -	--> Temperature controller object constructed
+08-03 18:16:29.870 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-03 18:16:29.870 root         INFO     0	--> Set temperature control OFF
+08-03 18:16:29.870 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-04 11:40:43.432 root         INFO     -	--> Serial connection established
+08-04 11:40:43.432 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:40:43.434 root         INFO     -	--> Temperature controller object constructed
+08-04 11:40:43.434 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-04 11:40:58.875 root         INFO     -	--> Serial connection established
+08-04 11:40:58.875 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:40:58.876 root         INFO     -	--> Temperature controller object constructed
+08-04 11:40:58.876 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-04 11:40:58.876 root         INFO     0	--> Set temperature control OFF
+08-04 11:40:58.877 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-04 11:41:00.987 root         INFO     -	--> Serial connection established
+08-04 11:41:00.987 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:41:00.988 root         INFO     -	--> Temperature controller object constructed
+08-04 11:41:00.988 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-04 11:41:00.988 root         INFO     0	--> Set temperature control ON
+08-04 11:41:00.989 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-04 11:41:03.250 root         INFO     -	--> Serial connection established
+08-04 11:41:03.250 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:41:03.252 root         INFO     -	--> Temperature controller object constructed
+08-04 11:41:03.252 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-04 11:41:56.306 root         INFO     -	--> Serial connection established
+08-04 11:41:56.307 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:41:56.308 root         INFO     -	--> Temperature controller object constructed
+08-04 11:41:56.308 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-04 11:42:23.342 root         INFO     -	--> Serial connection established
+08-04 11:42:23.343 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:42:23.344 root         INFO     -	--> Temperature controller object constructed
+08-04 11:42:23.344 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-04 11:42:55.340 root         INFO     -	--> Serial connection established
+08-04 11:42:55.340 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:42:55.341 root         INFO     -	--> Temperature controller object constructed
+08-04 11:42:55.341 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-04 11:43:07.922 root         INFO     -	--> Serial connection established
+08-04 11:43:07.923 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:43:07.924 root         INFO     -	--> Temperature controller object constructed
+08-04 11:43:07.924 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-04 11:44:38.300 root         INFO     -	--> Serial connection established
+08-04 11:44:38.300 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:44:38.301 root         INFO     -	--> Temperature controller object constructed
+08-04 11:44:38.302 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-04 11:48:09.498 root         INFO     -	--> Serial connection established
+08-04 11:48:09.498 root         INFO     0	--> Retrieve configuration parameters from file
+08-04 11:48:09.500 root         INFO     -	--> Temperature controller object constructed
+08-04 11:48:09.500 root         INFO     -	--> Started sample_parameters method execution - temperature_utils.py
+08-04 11:51:10.339 root         INFO     -	--> Finished sample_parameters method execution - duration: 3.01 minutes
+
+08-09 11:26:41.195 root         INFO     -	--> Serial connection established
+08-09 11:26:41.204 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:26:41.217 root         INFO     -	--> Temperature controller object constructed
+08-09 11:26:41.217 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-09 11:26:41.218 root         INFO     0	--> Set temperature control OFF
+08-09 11:26:41.218 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-09 11:33:11.548 root         INFO     -	--> Serial connection established
+08-09 11:33:11.548 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:33:11.550 root         INFO     -	--> Temperature controller object constructed
+08-09 11:33:11.550 root         INFO     -	--> Started monitor_paramreters method execution - temperature_utils.py
+08-09 11:33:16.602 root         INFO     -	--> Serial connection established
+08-09 11:33:16.602 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:33:16.639 root         INFO     -	--> Temperature controller object constructed
+08-09 11:33:16.639 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 11:38:47.998 root         INFO     -	--> Serial connection established
+08-09 11:38:47.998 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:38:48.000 root         INFO     -	--> Temperature controller object constructed
+08-09 11:38:48.000 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 11:39:01.124 root         INFO     -	--> Serial connection established
+08-09 11:39:01.124 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:39:01.125 root         INFO     -	--> Temperature controller object constructed
+08-09 11:39:01.125 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 11:54:41.412 root         INFO     -	--> Serial connection established
+08-09 11:54:41.424 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:54:41.437 root         INFO     -	--> Temperature controller object constructed
+08-09 11:54:41.437 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 11:56:10.611 root         INFO     -	--> Serial connection established
+08-09 11:56:10.612 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 11:56:10.637 root         INFO     -	--> Temperature controller object constructed
+08-09 11:56:10.638 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 13:22:42.018 root         INFO     -	--> Serial connection established
+08-09 13:22:42.018 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 13:22:42.488 root         INFO     -	--> Temperature controller object constructed
+08-09 13:22:42.489 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-09 14:10:05.925 root         INFO     -	--> Serial connection established
+08-09 14:10:05.925 root         INFO     0	--> Retrieve configuration parameters from file
+08-09 14:10:05.927 root         INFO     -	--> Temperature controller object constructed
+08-09 14:10:05.927 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-15 16:46:03.785 root         INFO     -	--> Serial connection established
+08-15 16:46:03.796 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 16:46:03.797 root         INFO     -	--> Temperature controller object constructed
+08-15 16:46:03.798 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-15 16:46:12.506 root         INFO     -	--> Serial connection established
+08-15 16:46:12.506 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 16:46:12.508 root         INFO     -	--> Temperature controller object constructed
+08-15 16:46:12.508 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-15 17:09:55.517 root         INFO     -	--> Serial connection established
+08-15 17:09:55.517 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:09:55.519 root         INFO     -	--> Temperature controller object constructed
+08-15 17:09:55.519 root         INFO     *	--> Started genotyping PCR
+08-15 17:09:55.519 root         INFO     0	--> Set temperature control ON
+08-15 17:09:55.519 root         INFO     0	--> In polymerase chain reaction
+08-15 17:09:55.519 root         INFO     0	--> In (outer) denaturation step
+08-15 17:09:55.519 root         INFO     0	--> Set PCR solution temperature to 96.00 C
+08-15 17:09:55.519 root         INFO     0	--> Set target temperature to 96.00 C
+08-15 17:09:55.520 root         INFO     0	--> Wait for steady-state - set temperature: 96.00 C
+08-15 17:11:04.238 root         INFO     -	--> Serial connection established
+08-15 17:11:04.238 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:11:04.255 root         INFO     -	--> Temperature controller object constructed
+08-15 17:11:04.255 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-15 17:11:04.256 root         INFO     0	--> Set temperature control OFF
+08-15 17:11:04.256 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-15 17:15:52.810 root         INFO     -	--> Serial connection established
+08-15 17:15:52.810 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:15:52.811 root         INFO     -	--> Temperature controller object constructed
+08-15 17:15:52.812 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-15 17:15:52.812 root         INFO     0	--> Set temperature control OFF
+08-15 17:15:52.812 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-15 17:15:55.310 root         INFO     -	--> Serial connection established
+08-15 17:15:55.310 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:15:55.312 root         INFO     -	--> Temperature controller object constructed
+08-15 17:15:55.312 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-15 17:15:55.312 root         INFO     0	--> Set temperature control OFF
+08-15 17:15:55.312 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-15 17:26:49.818 root         INFO     -	--> Serial connection established
+08-15 17:26:49.818 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:26:49.819 root         INFO     -	--> Temperature controller object constructed
+08-15 17:26:49.819 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-15 17:26:49.820 root         INFO     0	--> Set temperature control OFF
+08-15 17:26:49.820 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-15 17:26:51.096 root         INFO     -	--> Serial connection established
+08-15 17:26:51.096 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:26:51.097 root         INFO     -	--> Temperature controller object constructed
+08-15 17:26:51.098 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-15 17:26:51.098 root         INFO     0	--> Set temperature control OFF
+08-15 17:26:51.098 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-15 17:27:54.242 root         INFO     -	--> Serial connection established
+08-15 17:27:54.242 root         INFO     0	--> Retrieve configuration parameters from file
+08-15 17:27:54.244 root         INFO     -	--> Temperature controller object constructed
+08-15 17:27:54.244 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-15 17:27:56.857 root         INFO     0	--> Set target temperature to 40.00 C
+08-15 17:27:56.858 root         INFO     -	--> Finished set_temperature method execution - duration: 0.04 minutes
+
+08-21 14:02:59.692 root         INFO     -	--> Serial connection established
+08-21 14:02:59.708 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:02:59.710 root         INFO     -	--> Temperature controller object constructed
+08-21 14:02:59.710 root         INFO     -	--> Started get_P_bandwidth method execution - temperature_utils.py
+08-21 14:03:51.968 root         INFO     -	--> Serial connection established
+08-21 14:03:51.968 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:03:51.969 root         INFO     -	--> Temperature controller object constructed
+08-21 14:03:51.969 root         INFO     -	--> Started get_P_bandwidth method execution - temperature_utils.py
+08-21 14:03:52.109 root         INFO     -	--> Finished get_P_bandwidth method execution - duration: 0.00 minutes
+
+08-21 14:04:36.850 root         INFO     -	--> Serial connection established
+08-21 14:04:36.850 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:04:36.851 root         INFO     -	--> Temperature controller object constructed
+08-21 14:04:36.851 root         INFO     -	--> Started get_P_bandwidth method execution - temperature_utils.py
+08-21 14:04:36.993 root         INFO     -	--> Finished get_P_bandwidth method execution - duration: 0.00 minutes
+
+08-21 14:04:43.876 root         INFO     -	--> Serial connection established
+08-21 14:04:43.876 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:04:43.877 root         INFO     -	--> Temperature controller object constructed
+08-21 14:04:43.877 root         INFO     -	--> Started get_I_gain method execution - temperature_utils.py
+08-21 14:04:44.017 root         INFO     -	--> Finished get_I_gain method execution - duration: 0.00 minutes
+
+08-21 14:05:15.130 root         INFO     -	--> Serial connection established
+08-21 14:05:15.130 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:15.131 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:15.132 root         INFO     -	--> Started get_I_gain method execution - temperature_utils.py
+08-21 14:05:15.273 root         INFO     -	--> Finished get_I_gain method execution - duration: 0.00 minutes
+
+08-21 14:05:19.646 root         INFO     -	--> Serial connection established
+08-21 14:05:19.646 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:19.647 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:19.647 root         INFO     -	--> Started get_D_gain method execution - temperature_utils.py
+08-21 14:05:19.789 root         INFO     -	--> Finished get_D_gain method execution - duration: 0.00 minutes
+
+08-21 14:05:25.278 root         INFO     -	--> Serial connection established
+08-21 14:05:25.278 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:25.280 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:25.280 root         INFO     -	--> Started set_P_bandwidth method execution - temperature_utils.py
+08-21 14:05:28.193 root         INFO     0	--> Set proportional bandwidth to 1.00
+08-21 14:05:28.193 root         INFO     -	--> Finished set_P_bandwidth method execution - duration: 0.05 minutes
+
+08-21 14:05:36.615 root         INFO     -	--> Serial connection established
+08-21 14:05:36.616 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:36.617 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:36.617 root         INFO     -	--> Started set_I_gain method execution - temperature_utils.py
+08-21 14:05:37.425 root         INFO     0	--> Set integral gain to 2.00
+08-21 14:05:37.425 root         INFO     -	--> Finished set_I_gain method execution - duration: 0.01 minutes
+
+08-21 14:05:42.258 root         INFO     -	--> Serial connection established
+08-21 14:05:42.258 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:42.260 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:42.260 root         INFO     -	--> Started set_D_gain method execution - temperature_utils.py
+08-21 14:05:43.425 root         INFO     0	--> Set derivative gain to 3.00
+08-21 14:05:43.425 root         INFO     -	--> Finished set_D_gain method execution - duration: 0.02 minutes
+
+08-21 14:05:47.835 root         INFO     -	--> Serial connection established
+08-21 14:05:47.836 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:05:47.837 root         INFO     -	--> Temperature controller object constructed
+08-21 14:05:47.837 root         INFO     -	--> Started get_P_bandwidth method execution - temperature_utils.py
+08-21 14:05:47.977 root         INFO     -	--> Finished get_P_bandwidth method execution - duration: 0.00 minutes
+
+08-21 14:06:11.790 root         INFO     -	--> Serial connection established
+08-21 14:06:11.790 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:11.792 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:11.792 root         INFO     -	--> Started get_I_gain method execution - temperature_utils.py
+08-21 14:06:11.933 root         INFO     -	--> Finished get_I_gain method execution - duration: 0.00 minutes
+
+08-21 14:06:17.567 root         INFO     -	--> Serial connection established
+08-21 14:06:17.568 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:17.569 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:17.569 root         INFO     -	--> Started get_D_gain method execution - temperature_utils.py
+08-21 14:06:17.709 root         INFO     -	--> Finished get_D_gain method execution - duration: 0.00 minutes
+
+08-21 14:06:23.068 root         INFO     -	--> Serial connection established
+08-21 14:06:23.068 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:23.069 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:23.070 root         INFO     -	--> Started set_P_bandwidth method execution - temperature_utils.py
+08-21 14:06:23.829 root         INFO     0	--> Set proportional bandwidth to 22.00
+08-21 14:06:23.829 root         INFO     -	--> Finished set_P_bandwidth method execution - duration: 0.01 minutes
+
+08-21 14:06:28.422 root         INFO     -	--> Serial connection established
+08-21 14:06:28.422 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:28.424 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:28.424 root         INFO     -	--> Started set_I_gain method execution - temperature_utils.py
+08-21 14:06:29.405 root         INFO     0	--> Set integral gain to 2.00
+08-21 14:06:29.405 root         INFO     -	--> Finished set_I_gain method execution - duration: 0.02 minutes
+
+08-21 14:06:32.438 root         INFO     -	--> Serial connection established
+08-21 14:06:32.438 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:32.439 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:32.439 root         INFO     -	--> Started set_D_gain method execution - temperature_utils.py
+08-21 14:06:33.557 root         INFO     0	--> Set derivative gain to 0.00
+08-21 14:06:33.557 root         INFO     -	--> Finished set_D_gain method execution - duration: 0.02 minutes
+
+08-21 14:06:36.433 root         INFO     -	--> Serial connection established
+08-21 14:06:36.434 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:36.435 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:36.435 root         INFO     -	--> Started get_P_bandwidth method execution - temperature_utils.py
+08-21 14:06:36.577 root         INFO     -	--> Finished get_P_bandwidth method execution - duration: 0.00 minutes
+
+08-21 14:06:40.350 root         INFO     -	--> Serial connection established
+08-21 14:06:40.350 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:40.352 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:40.352 root         INFO     -	--> Started get_I_gain method execution - temperature_utils.py
+08-21 14:06:40.493 root         INFO     -	--> Finished get_I_gain method execution - duration: 0.00 minutes
+
+08-21 14:06:45.062 root         INFO     -	--> Serial connection established
+08-21 14:06:45.062 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:06:45.063 root         INFO     -	--> Temperature controller object constructed
+08-21 14:06:45.063 root         INFO     -	--> Started get_D_gain method execution - temperature_utils.py
+08-21 14:06:45.205 root         INFO     -	--> Finished get_D_gain method execution - duration: 0.00 minutes
+
+08-21 14:07:07.766 root         INFO     -	--> Serial connection established
+08-21 14:07:07.766 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:07:07.768 root         INFO     -	--> Temperature controller object constructed
+08-21 14:07:07.768 root         INFO     -	--> Started set_temperaure method execution - temperature_utils.py
+08-21 14:07:11.524 root         INFO     -	--> Serial connection established
+08-21 14:07:11.524 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:07:11.525 root         INFO     -	--> Temperature controller object constructed
+08-21 14:07:11.525 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-21 14:07:15.677 root         INFO     0	--> Set target temperature to 30.00 C
+08-21 14:07:15.677 root         INFO     -	--> Finished set_temperature method execution - duration: 0.07 minutes
+
+08-21 14:07:21.650 root         INFO     -	--> Serial connection established
+08-21 14:07:21.650 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:07:21.651 root         INFO     -	--> Temperature controller object constructed
+08-21 14:07:21.651 root         INFO     -	--> Started get_set_temperature method execution - temperature_utils.py
+08-21 14:07:21.793 root         INFO     -	--> Finished get_set_temperature method execution - duration: 0.00 minutes
+
+08-21 14:07:34.658 root         INFO     -	--> Serial connection established
+08-21 14:07:34.658 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:07:34.659 root         INFO     -	--> Temperature controller object constructed
+08-21 14:07:34.659 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 14:07:34.660 root         INFO     0	--> Set temperature control ON
+08-21 14:07:34.660 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 14:08:40.068 root         INFO     -	--> Serial connection established
+08-21 14:08:40.068 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:08:40.070 root         INFO     -	--> Temperature controller object constructed
+08-21 14:08:40.070 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 14:08:40.070 root         INFO     0	--> Set temperature control OFF
+08-21 14:08:40.070 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 14:09:44.654 root         INFO     -	--> Serial connection established
+08-21 14:09:44.654 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:09:44.655 root         INFO     -	--> Temperature controller object constructed
+08-21 14:09:44.656 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 14:09:44.656 root         INFO     0	--> Set temperature control ON
+08-21 14:09:44.656 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 14:09:51.841 root         INFO     -	--> Serial connection established
+08-21 14:09:51.841 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:09:51.843 root         INFO     -	--> Temperature controller object constructed
+08-21 14:09:51.843 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 14:09:51.843 root         INFO     0	--> Set temperature control OFF
+08-21 14:09:51.843 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 14:12:01.878 root         INFO     -	--> Serial connection established
+08-21 14:12:01.878 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:12:01.880 root         INFO     -	--> Temperature controller object constructed
+08-21 14:12:01.880 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 14:12:01.880 root         INFO     0	--> Set temperature control ON
+08-21 14:12:01.880 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 14:12:15.796 root         INFO     -	--> Serial connection established
+08-21 14:12:15.796 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 14:12:15.797 root         INFO     -	--> Temperature controller object constructed
+08-21 14:12:15.797 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 14:12:15.797 root         INFO     0	--> Set temperature control OFF
+08-21 14:12:15.798 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 16:45:57.234 root         INFO     -	--> Serial connection established
+08-21 16:45:57.239 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:45:57.260 root         INFO     -	--> Temperature controller object constructed
+08-21 16:45:57.260 root         INFO     -	--> Started moitor+parameters method execution - temperature_utils.py
+08-21 16:46:00.722 root         INFO     -	--> Serial connection established
+08-21 16:46:00.722 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:46:00.724 root         INFO     -	--> Temperature controller object constructed
+08-21 16:46:00.724 root         INFO     -	--> Started moitor_parameters method execution - temperature_utils.py
+08-21 16:46:04.852 root         INFO     -	--> Serial connection established
+08-21 16:46:04.852 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:46:04.853 root         INFO     -	--> Temperature controller object constructed
+08-21 16:46:04.854 root         INFO     -	--> Started monitor_parameters method execution - temperature_utils.py
+08-21 16:46:46.026 root         INFO     -	--> Serial connection established
+08-21 16:46:46.026 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:46:46.045 root         INFO     -	--> Temperature controller object constructed
+08-21 16:46:46.045 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-21 16:46:47.889 root         INFO     0	--> Set target temperature to 50.00 C
+08-21 16:46:47.889 root         INFO     -	--> Finished set_temperature method execution - duration: 0.03 minutes
+
+08-21 16:46:56.406 root         INFO     -	--> Serial connection established
+08-21 16:46:56.406 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:46:56.407 root         INFO     -	--> Temperature controller object constructed
+08-21 16:46:56.408 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 16:46:56.408 root         INFO     0	--> Set temperature control ON
+08-21 16:46:56.408 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 16:47:29.883 root         INFO     -	--> Serial connection established
+08-21 16:47:29.884 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:47:29.902 root         INFO     -	--> Temperature controller object constructed
+08-21 16:47:29.902 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 16:47:29.902 root         INFO     0	--> Set temperature control OFF
+08-21 16:47:29.903 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 16:48:04.749 root         INFO     -	--> Serial connection established
+08-21 16:48:04.750 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:48:04.771 root         INFO     -	--> Temperature controller object constructed
+08-21 16:48:04.771 root         INFO     -	--> Started get_set_temperature method execution - temperature_utils.py
+08-21 16:48:04.917 root         INFO     -	--> Finished get_set_temperature method execution - duration: 0.00 minutes
+
+08-21 16:51:39.398 root         INFO     -	--> Serial connection established
+08-21 16:51:39.977 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:51:39.980 root         INFO     -	--> Temperature controller object constructed
+08-21 16:58:57.903 root         INFO     -	--> Serial connection established
+08-21 16:58:58.597 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 16:58:58.600 root         INFO     -	--> Temperature controller object constructed
+08-21 17:01:55.547 root         INFO     -	--> Serial connection established
+08-21 17:01:56.069 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:01:56.071 root         INFO     -	--> Temperature controller object constructed
+08-21 17:03:53.232 root         INFO     -	--> Serial connection established
+08-21 17:03:53.597 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:03:53.600 root         INFO     -	--> Temperature controller object constructed
+08-21 17:19:34.485 root         INFO     -	--> Serial connection established
+08-21 17:19:34.953 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:19:34.956 root         INFO     -	--> Temperature controller object constructed
+08-21 17:20:20.898 root         INFO     -	--> Serial connection established
+08-21 17:20:20.898 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:20:20.900 root         INFO     -	--> Temperature controller object constructed
+08-21 17:20:20.900 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 17:20:20.900 root         INFO     0	--> Set temperature control ON
+08-21 17:20:20.900 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 17:24:39.993 root         INFO     -	--> Serial connection established
+08-21 17:24:40.965 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:24:40.968 root         INFO     -	--> Temperature controller object constructed
+08-21 17:26:13.527 root         INFO     -	--> Serial connection established
+08-21 17:26:13.528 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:26:13.529 root         INFO     -	--> Temperature controller object constructed
+08-21 17:26:13.529 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 17:26:13.529 root         INFO     0	--> Set temperature control OFF
+08-21 17:26:13.530 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 17:26:43.427 root         INFO     -	--> Serial connection established
+08-21 17:26:43.985 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:26:43.988 root         INFO     -	--> Temperature controller object constructed
+08-21 17:28:48.971 root         INFO     -	--> Serial connection established
+08-21 17:28:49.649 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:28:49.652 root         INFO     -	--> Temperature controller object constructed
+08-21 17:30:34.876 root         INFO     -	--> Serial connection established
+08-21 17:30:34.876 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:30:34.877 root         INFO     -	--> Temperature controller object constructed
+08-21 17:30:34.878 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 17:30:34.878 root         INFO     0	--> Set temperature control ON
+08-21 17:30:34.878 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 17:30:36.714 root         INFO     -	--> Serial connection established
+08-21 17:30:36.714 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:30:36.715 root         INFO     -	--> Temperature controller object constructed
+08-21 17:30:36.715 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 17:30:36.716 root         INFO     0	--> Set temperature control OFF
+08-21 17:30:36.716 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 17:30:40.010 root         INFO     -	--> Serial connection established
+08-21 17:30:40.010 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:30:40.011 root         INFO     -	--> Temperature controller object constructed
+08-21 17:30:40.011 root         INFO     -	--> Started get_set_temperature method execution - temperature_utils.py
+08-21 17:30:56.858 root         INFO     -	--> Serial connection established
+08-21 17:30:56.858 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:30:56.859 root         INFO     -	--> Temperature controller object constructed
+08-21 17:30:56.859 root         INFO     -	--> Started get_set_temperature method execution - temperature_utils.py
+08-21 17:30:57.001 root         INFO     -	--> Finished get_set_temperature method execution - duration: 0.00 minutes
+
+08-21 17:31:09.063 root         INFO     -	--> Serial connection established
+08-21 17:31:09.064 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:31:09.065 root         INFO     -	--> Temperature controller object constructed
+08-21 17:31:09.065 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 17:31:09.065 root         INFO     0	--> Set temperature control ON
+08-21 17:31:09.065 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-21 17:31:13.338 root         INFO     -	--> Serial connection established
+08-21 17:31:13.338 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:31:13.339 root         INFO     -	--> Temperature controller object constructed
+08-21 17:31:13.340 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-21 17:31:13.340 root         INFO     0	--> Set temperature control OFF
+08-21 17:31:13.340 root         INFO     -	--> Finished set_control_off method execution - duration: 0.00 minutes
+
+08-21 17:31:39.631 root         INFO     -	--> Serial connection established
+08-21 17:31:40.101 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:31:40.104 root         INFO     -	--> Temperature controller object constructed
+08-21 17:32:59.224 root         INFO     -	--> Serial connection established
+08-21 17:32:59.224 root         INFO     0	--> Retrieve configuration parameters from file
+08-21 17:32:59.225 root         INFO     -	--> Temperature controller object constructed
+08-21 17:32:59.225 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-21 17:32:59.225 root         INFO     0	--> Set temperature control ON
+08-21 17:32:59.226 root         INFO     -	--> Finished set_control_on method execution - duration: 0.00 minutes
+
+08-26 15:44:17.351 root         INFO     -	--> Serial connection established
+08-26 15:44:17.400 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:44:19.690 root         INFO     -	--> Temperature controller object constructed
+08-26 15:44:19.692 root         INFO     -	--> Started get_control_temperature method execution - temperature_utils.py
+08-26 15:44:19.832 root         INFO     -	--> Finished get_control_temperature method execution - duration: 0.04 minutes
+
+08-26 15:44:22.302 root         INFO     -	--> Serial connection established
+08-26 15:44:22.309 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:44:22.712 root         INFO     -	--> Temperature controller object constructed
+08-26 15:44:22.713 root         INFO     -	--> Started get_control_temperature method execution - temperature_utils.py
+08-26 15:44:22.852 root         INFO     -	--> Finished get_control_temperature method execution - duration: 0.01 minutes
+
+08-26 15:44:24.127 root         INFO     -	--> Serial connection established
+08-26 15:44:24.128 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:44:24.524 root         INFO     -	--> Temperature controller object constructed
+08-26 15:44:24.525 root         INFO     -	--> Started get_control_temperature method execution - temperature_utils.py
+08-26 15:44:24.664 root         INFO     -	--> Finished get_control_temperature method execution - duration: 0.01 minutes
+
+08-26 15:44:36.599 root         INFO     -	--> Serial connection established
+08-26 15:44:36.607 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:44:36.977 root         INFO     -	--> Temperature controller object constructed
+08-26 15:44:36.978 root         INFO     -	--> Started monitor_temperature method execution - temperature_utils.py
+08-26 15:44:52.191 root         INFO     -	--> Serial connection established
+08-26 15:44:52.206 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:44:52.570 root         INFO     -	--> Temperature controller object constructed
+08-26 15:44:52.571 root         INFO     -	--> Started set_temperature method execution - temperature_utils.py
+08-26 15:44:58.703 root         INFO     0	--> Set target temperature to 40.00 C
+08-26 15:44:58.704 root         INFO     -	--> Finished set_temperature method execution - duration: 0.11 minutes
+
+08-26 15:45:15.845 root         INFO     -	--> Serial connection established
+08-26 15:45:15.847 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:16.214 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:16.215 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-26 15:45:16.559 root         INFO     0	--> Set temperature control OFF
+08-26 15:45:16.560 root         INFO     -	--> Finished set_control_off method execution - duration: 0.01 minutes
+
+08-26 15:45:20.015 root         INFO     -	--> Serial connection established
+08-26 15:45:20.034 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:20.494 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:20.495 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-26 15:45:22.562 root         INFO     0	--> Set temperature control ON
+08-26 15:45:22.563 root         INFO     -	--> Finished set_control_on method execution - duration: 0.04 minutes
+
+08-26 15:45:25.203 root         INFO     -	--> Serial connection established
+08-26 15:45:25.204 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:25.585 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:25.586 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-26 15:45:27.712 root         INFO     0	--> Set temperature control OFF
+08-26 15:45:27.713 root         INFO     -	--> Finished set_control_off method execution - duration: 0.04 minutes
+
+08-26 15:45:35.075 root         INFO     -	--> Serial connection established
+08-26 15:45:35.083 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:35.502 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:35.503 root         INFO     -	--> Started set_control_on method execution - temperature_utils.py
+08-26 15:45:35.779 root         INFO     0	--> Set temperature control ON
+08-26 15:45:35.780 root         INFO     -	--> Finished set_control_on method execution - duration: 0.01 minutes
+
+08-26 15:45:42.970 root         INFO     -	--> Serial connection established
+08-26 15:45:42.971 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:43.370 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:43.371 root         INFO     -	--> Started monitor_temperature method execution - temperature_utils.py
+08-26 15:45:52.694 root         INFO     -	--> Serial connection established
+08-26 15:45:52.695 root         INFO     0	--> Retrieve configuration parameters from file
+08-26 15:45:53.073 root         INFO     -	--> Temperature controller object constructed
+08-26 15:45:53.074 root         INFO     -	--> Started set_control_off method execution - temperature_utils.py
+08-26 15:45:55.179 root         INFO     0	--> Set temperature control OFF
+08-26 15:45:55.180 root         INFO     -	--> Finished set_control_off method execution - duration: 0.04 minutes
+

@@ -1,0 +1,101 @@
+07-25 11:02:26.562 root         INFO     -	--> Serial connection established
+07-25 11:02:26.562 root         INFO     0	--> Retrieve configuration parameters from file
+07-25 11:02:26.564 root         INFO     -	--> Temperature controller object constructed
+07-25 11:02:26.564 root         INFO     *	--> Started genotyping PCR
+07-25 11:02:26.564 root         INFO     0	--> Set temperature control ON
+07-25 11:02:26.564 root         INFO     0	--> In polymerase chain reaction
+07-25 11:02:26.564 root         INFO     0	--> In (outer) denaturation step
+07-25 11:02:26.564 root         INFO     0	--> Set PCR solution temperature to 96.00 C
+07-25 11:02:26.565 root         INFO     0	--> Set target temperature to 96.00 C
+07-25 11:02:26.565 root         INFO     0	--> Wait for steady-state - set temperature: 96.00 C
+07-25 11:02:32.965 root         WARNING  0	--> Time to set steady-state temperature: 6.40 seconds and current temperature: 95.60 C
+07-25 11:02:32.965 root         INFO     0	--> Incubate reagent for 15 s at 96.00 C target temperature
+07-25 11:02:49.117 root         INFO     1	--> In (inner) annealing step
+07-25 11:02:49.117 root         INFO     1	--> Set PCR solution temperature to 40.00 C
+07-25 11:02:49.118 root         INFO     1	--> Set target temperature to 40.00 C
+07-25 11:02:49.118 root         INFO     1	--> Wait for steady-state - set temperature: 40.00 C
+07-25 11:02:54.777 root         WARNING  1	--> Time to set steady-state temperature: 5.66 seconds and current temperature: 40.67 C
+07-25 11:02:54.777 root         INFO     1	--> Incubate reagent for 60 s at 40.00 C target temperature
+07-25 11:03:56.217 root         INFO     1	--> In (inner) elongation step
+07-25 11:03:56.217 root         INFO     1	--> Set PCR solution temperature to 73.00 C
+07-25 11:03:56.218 root         INFO     1	--> Set target temperature to 73.00 C
+07-25 11:03:56.218 root         INFO     1	--> Wait for steady-state - set temperature: 73.00 C
+07-25 11:04:00.229 root         WARNING  1	--> Time to set steady-state temperature: 4.01 seconds and current temperature: 72.18 C
+07-25 11:04:00.229 root         INFO     1	--> Incubate reagent for 30 s at 73.00 C target temperature
+07-25 11:04:30.937 root         INFO     2	--> In (inner) denaturation step
+07-25 11:04:30.937 root         INFO     2	--> Set PCR solution temperature to 96.00 C
+07-25 11:04:30.938 root         INFO     2	--> Set target temperature to 96.00 C
+07-25 11:04:30.938 root         INFO     2	--> Wait for steady-state - set temperature: 96.00 C
+07-25 11:04:33.349 root         WARNING  2	--> Time to set steady-state temperature: 2.41 seconds and current temperature: 95.26 C
+07-25 11:04:33.349 root         INFO     2	--> Incubate reagent for 15 s at 96.00 C target temperature
+07-25 11:04:49.577 root         INFO     2	--> In (inner) annealing step
+07-25 11:04:49.577 root         INFO     2	--> Set PCR solution temperature to 40.00 C
+07-25 11:04:49.578 root         INFO     2	--> Set target temperature to 40.00 C
+07-25 11:04:49.578 root         INFO     2	--> Wait for steady-state - set temperature: 40.00 C
+07-25 11:04:59.253 root         WARNING  2	--> Time to set steady-state temperature: 9.68 seconds and current temperature: 39.00 C
+07-25 11:04:59.254 root         INFO     2	--> Incubate reagent for 60 s at 40.00 C target temperature
+07-25 11:05:59.893 root         INFO     2	--> In (inner) elongation step
+07-25 11:05:59.893 root         INFO     2	--> Set PCR solution temperature to 73.00 C
+07-25 11:05:59.894 root         INFO     2	--> Set target temperature to 73.00 C
+07-25 11:05:59.894 root         INFO     2	--> Wait for steady-state - set temperature: 73.00 C
+07-25 11:06:03.105 root         WARNING  2	--> Time to set steady-state temperature: 3.21 seconds and current temperature: 73.88 C
+07-25 11:06:03.105 root         INFO     2	--> Incubate reagent for 30 s at 73.00 C target temperature
+07-25 11:06:33.817 root         INFO     3	--> In (inner) denaturation step
+07-25 11:06:33.817 root         INFO     3	--> Set PCR solution temperature to 96.00 C
+07-25 11:06:33.818 root         INFO     3	--> Set target temperature to 96.00 C
+07-25 11:06:33.818 root         INFO     3	--> Wait for steady-state - set temperature: 96.00 C
+07-25 11:06:36.229 root         WARNING  3	--> Time to set steady-state temperature: 2.41 seconds and current temperature: 95.22 C
+07-25 11:06:36.229 root         INFO     3	--> Incubate reagent for 15 s at 96.00 C target temperature
+07-25 11:06:52.457 root         INFO     3	--> In (inner) annealing step
+07-25 11:06:52.457 root         INFO     3	--> Set PCR solution temperature to 40.00 C
+07-25 11:06:52.458 root         INFO     3	--> Set target temperature to 40.00 C
+07-25 11:06:52.458 root         INFO     3	--> Wait for steady-state - set temperature: 40.00 C
+07-25 11:07:02.133 root         WARNING  3	--> Time to set steady-state temperature: 9.68 seconds and current temperature: 39.01 C
+07-25 11:07:02.133 root         INFO     3	--> Incubate reagent for 60 s at 40.00 C target temperature
+07-25 11:08:02.781 root         INFO     3	--> In (inner) elongation step
+07-25 11:08:02.781 root         INFO     3	--> Set PCR solution temperature to 73.00 C
+07-25 11:08:02.782 root         INFO     3	--> Set target temperature to 73.00 C
+07-25 11:08:02.782 root         INFO     3	--> Wait for steady-state - set temperature: 73.00 C
+07-25 11:08:06.793 root         WARNING  3	--> Time to set steady-state temperature: 4.01 seconds and current temperature: 72.21 C
+07-25 11:08:06.793 root         INFO     3	--> Incubate reagent for 30 s at 73.00 C target temperature
+07-25 11:08:37.493 root         INFO     4	--> In (inner) denaturation step
+07-25 11:08:37.493 root         INFO     4	--> Set PCR solution temperature to 96.00 C
+07-25 11:08:37.494 root         INFO     4	--> Set target temperature to 96.00 C
+07-25 11:08:37.494 root         INFO     4	--> Wait for steady-state - set temperature: 96.00 C
+07-25 11:08:39.905 root         WARNING  4	--> Time to set steady-state temperature: 2.41 seconds and current temperature: 95.08 C
+07-25 11:08:39.905 root         INFO     4	--> Incubate reagent for 15 s at 96.00 C target temperature
+07-25 11:08:56.133 root         INFO     4	--> In (inner) annealing step
+07-25 11:08:56.133 root         INFO     4	--> Set PCR solution temperature to 40.00 C
+07-25 11:08:56.134 root         INFO     4	--> Set target temperature to 40.00 C
+07-25 11:08:56.134 root         INFO     4	--> Wait for steady-state - set temperature: 40.00 C
+07-25 11:09:05.817 root         WARNING  4	--> Time to set steady-state temperature: 9.68 seconds and current temperature: 39.00 C
+07-25 11:09:05.818 root         INFO     4	--> Incubate reagent for 60 s at 40.00 C target temperature
+07-25 11:10:06.457 root         INFO     4	--> In (inner) elongation step
+07-25 11:10:06.457 root         INFO     4	--> Set PCR solution temperature to 73.00 C
+07-25 11:10:06.458 root         INFO     4	--> Set target temperature to 73.00 C
+07-25 11:10:06.458 root         INFO     4	--> Wait for steady-state - set temperature: 73.00 C
+07-25 11:10:10.469 root         WARNING  4	--> Time to set steady-state temperature: 4.01 seconds and current temperature: 72.15 C
+07-25 11:10:10.469 root         INFO     4	--> Incubate reagent for 30 s at 73.00 C target temperature
+07-25 11:10:41.173 root         INFO     5	--> In (inner) denaturation step
+07-25 11:10:41.173 root         INFO     5	--> Set PCR solution temperature to 96.00 C
+07-25 11:10:41.174 root         INFO     5	--> Set target temperature to 96.00 C
+07-25 11:10:41.174 root         INFO     5	--> Wait for steady-state - set temperature: 96.00 C
+07-25 11:10:43.585 root         WARNING  5	--> Time to set steady-state temperature: 2.41 seconds and current temperature: 95.02 C
+07-25 11:10:43.585 root         INFO     5	--> Incubate reagent for 15 s at 96.00 C target temperature
+07-25 11:10:59.813 root         INFO     5	--> In (inner) annealing step
+07-25 11:10:59.813 root         INFO     5	--> Set PCR solution temperature to 40.00 C
+07-25 11:10:59.814 root         INFO     5	--> Set target temperature to 40.00 C
+07-25 11:10:59.814 root         INFO     5	--> Wait for steady-state - set temperature: 40.00 C
+07-25 11:11:09.493 root         WARNING  5	--> Time to set steady-state temperature: 9.68 seconds and current temperature: 39.01 C
+07-25 11:11:09.494 root         INFO     5	--> Incubate reagent for 60 s at 40.00 C target temperature
+07-25 11:12:10.133 root         INFO     5	--> In (inner) elongation step
+07-25 11:12:10.133 root         INFO     5	--> Set PCR solution temperature to 73.00 C
+07-25 11:12:10.134 root         INFO     5	--> Set target temperature to 73.00 C
+07-25 11:12:10.134 root         INFO     5	--> Wait for steady-state - set temperature: 73.00 C
+07-25 11:12:14.145 root         WARNING  5	--> Time to set steady-state temperature: 4.01 seconds and current temperature: 72.11 C
+07-25 11:12:14.145 root         INFO     5	--> Incubate reagent for 30 s at 73.00 C target temperature
+07-25 11:12:44.857 root         INFO     5	--> In (outer) final hold
+07-25 11:12:44.857 root         INFO     5	--> Set PCR solution temperature to 25.00 C
+07-25 11:12:44.858 root         INFO     5	--> Set target temperature to 25.00 C
+07-25 11:12:44.858 root         INFO     5	--> Incubate reagent for 60 s at 25.00 C target temperature
+07-25 11:18:23.465 root         INFO     5	--> Set temperature control OFF

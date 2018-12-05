@@ -1,0 +1,72 @@
+#--------------------------------------------------------------------------------------#
+#				    DEVICE COMMUNICATION                               #
+#--------------------------------------------------------------------------------------#
+
+[communication]
+
+serial_port = /dev/ttyS0
+
+home_dir = /home/pirimidi/Desktop/t_controller/code/off_chip/rev7
+log_dir = /home/pirimidi/Desktop/t_controller/code/off_chip/rev7/process_logs/
+cfg_dir = /home/pirimidi/Desktop/t_controller/code/off_chip/rev7/config_logs/
+
+log_option = 1
+speech_option = 1
+
+#--------------------------------------------------------------------------------------#
+#				 PCR PARAMETERS		                               #
+#--------------------------------------------------------------------------------------#
+
+[pcr_parameters]
+
+loop_iter = 5
+
+P_bandwidth1 = 22
+I_gain1 = 2
+D_gain1 = 0
+
+P_bandwidth2 = 22
+I_gain2 = 2
+D_gain2 = 0
+
+P_bandwidth3 = 15
+I_gain3 = 10
+D_gain3 = 0
+
+P_bandwidth4 = 30
+I_gain4 = 40
+D_gain4 = 0
+
+P_bandwidth5 = 50
+I_gain5 = 10
+D_gain5 = 0
+
+temp1 = 90
+set_temp1 = 100
+poll_temp1 = 85
+
+temp2 = 90
+set_temp2 = 100
+poll_temp2 = 85
+
+temp3 = 40
+set_temp2 = 0
+poll_temp2 = 42
+
+temp4 = 70
+set_temp2 = 80
+poll_temp2 = 65
+
+temp5 = 25
+
+SS_time1 = 15
+SS_time2 = 15
+SS_time3 = 30
+SS_time4 = 75
+SS_final = 60
+
+temp_tolerance = 1
+time_limit = 1
+sampling_time = 0.1
+sampling_period = 3
+
